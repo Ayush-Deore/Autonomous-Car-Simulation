@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/2afdd0ad-aa20-4150-ae99-3ab14c4f59d3
+
 <h1>Autonomous Car Simulation with Neural Network AI.</h1>
 
 This is a browser-based simulation where virtual cars attempt to drive autonomously on a road. The key idea is to train cars using a neural network, enabling them to steer clear of traffic and borders using sensor input.
